@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /**
- * free-grid -2d grid
+ * free_grid - 2d grid
  * @grid: 2d functional  grid
  * @height: grid
  *
